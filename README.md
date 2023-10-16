@@ -1,0 +1,1 @@
+# schwinger-model-resource
